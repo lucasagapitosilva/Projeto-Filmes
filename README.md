@@ -1,6 +1,5 @@
 # Projeto-Filmes
- Pasta Filmes
 
- Primeiro repositório - teste !
- 
- Linha de teste via GitHub
+ Primeiro repositório no GitHub.
+
+ Tecnologias usadas: HTML5 e CSS3
